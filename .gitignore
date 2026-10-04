@@ -1,0 +1,6 @@
+*.payload
+*.exe
+*.pyd
+*.pem
+config.json
+cleanup-backup*

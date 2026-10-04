@@ -1,0 +1,51 @@
+{
+  "project": "Suwayomi-Server",
+  "tag": "v2.3.2243",
+  "commit": "1d583ca4a718646e17a4c62d23fe8e5edccaf774",
+  "source_url": "https://codeload.github.com/Suwayomi/Suwayomi-Server/zip/1d583ca4a718646e17a4c62d23fe8e5edccaf774",
+  "source_sha256": "58436ae62b54ed062422f4390d223a5bebb1debf58c3d5b2addb74aaf2076ac4",
+  "upstream_assets": [
+    {
+      "name": "Checksums.sha256",
+      "digest": "sha256:04f4ae91fb01877e7b0f7b99db6d983335487e7eda92d234b8a36e4a0039b5ab"
+    },
+    {
+      "name": "Suwayomi-Server-v2.3.2243-appimage.AppImage",
+      "digest": "sha256:76c517042c124fb05614512e549ef2cd973fffbad13eeac95589517cee00a5e4"
+    },
+    {
+      "name": "Suwayomi-Server-v2.3.2243-debian-all.deb",
+      "digest": "sha256:55b2499449045a9901a819469483e4c012e5284160673bdf3fd7fd334272ce46"
+    },
+    {
+      "name": "Suwayomi-Server-v2.3.2243-linux-assets.tar.gz",
+      "digest": "sha256:6cc75b16d8c627c5bff5cacb418f4c42172a1da4cc54315fc5577601934c4d92"
+    },
+    {
+      "name": "Suwayomi-Server-v2.3.2243-linux-x64.tar.gz",
+      "digest": "sha256:7ed20b7890a6720c4d5dd51fe9c3247f537ffcab01a1cba5c2a75626743236c3"
+    },
+    {
+      "name": "Suwayomi-Server-v2.3.2243-macOS-arm64.tar.gz",
+      "digest": "sha256:884df50945c9c052ec55bea8bb6fd232f9258a5a0bb8a95d2e07850337b2481b"
+    },
+    {
+      "name": "Suwayomi-Server-v2.3.2243-macOS-x64.tar.gz",
+      "digest": "sha256:3021ce25ed0366bd91899621ff5e4f0ac0e11be292daa37a9c3dfac9bd7c9591"
+    },
+    {
+      "name": "Suwayomi-Server-v2.3.2243-windows-x64.msi",
+      "digest": "sha256:7b8fcb3f0bcc3725e38236f62a38470423180b018428783cc10633753462dab2"
+    },
+    {
+      "name": "Suwayomi-Server-v2.3.2243-windows-x64.zip",
+      "digest": "sha256:895843f48d5735e01bdc43d79ab66e600d6f507076a9b792ffa418a9bbcc32c2"
+    },
+    {
+      "name": "Suwayomi-Server-v2.3.2243.jar",
+      "digest": "sha256:821141b32e170d4a02d3cbdfed577ed8f07bd22383ff5f4132ebb5ae40e98dd5"
+    }
+  ],
+  "licence": "MPL-2.0",
+  "note": "Unmodified exact-tag source. Embedded dependency sources/other runtimes are separate obligations."
+}

@@ -1,0 +1,19 @@
+{
+  "runtime": "Temurin 25.0.4.1+1",
+  "source_commit": "520406d87195",
+  "build_commit": "e6ba7dec3d07654074559310376a3ae89da5f4ac",
+  "source_repository": "https://github.com/adoptium/jdk25u",
+  "build_repository": "https://github.com/adoptium/temurin-build",
+  "assets": [
+    {
+      "name": "OpenJDK25U-jdk-sources_25.0.4.1_1.tar.gz",
+      "sha256": "cb9e50d2eb3de72ffd28466d7c511b4039b4bc4bd8f0d276d1e4cf81e30fdf09",
+      "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jdk-sources_25.0.4.1_1.tar.gz"
+    },
+    {
+      "name": "OpenJDK25U-jre_x64_windows_hotspot_25.0.4.1_1.zip.json",
+      "sha256": "30b2b51b85b9d15a903bed5e1bd4b4d976805067e5099d287b85cb0579a8ced2",
+      "url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_x64_windows_hotspot_25.0.4.1_1.zip.json"
+    }
+  ]
+}
